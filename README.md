@@ -13,7 +13,7 @@ Arduino IDE
 
 The original Code, is basically a Trial and Error of how long the elevator should stop for each floor. 
 
-#Remake
+# Remake
 
 You need the following hardware:
 H-bridge
