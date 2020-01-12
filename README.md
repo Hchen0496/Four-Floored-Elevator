@@ -14,7 +14,7 @@ You need the following hardware:
 - Is basically a Trial and Error of how long the elevator should stop for each floor 
 - Upload it on the Arduino IDE to the Arduino Board and then it should run accordingly
 
-# Original Code: How does it work?
+# Original: How does it work?
 - Once you upload and compile all you have to do is press what floor button you wanted it to go to, the DC Motor will start running based on the duration that you input for each floor, it'll stop once it hit that duration. 
 
 # Remake Version Hardware
@@ -31,7 +31,7 @@ You need the following hardware:
 # Remake Version Code
 - The Remake is basically where its one less button and has more features
 
-# Remake Version Code: How does it work?
+# Remake: How does it work?
 - Once you compile and upload the code on the Arduino, and finish setting up the hardware all you have to do is press the push button to what floor you want. While the DC Motor is heading to that floor, a limit switch will activate and it will stop the elevator completely. The 7-segment display will then display the floor number that the user requested
 
 # Troubleshoot
